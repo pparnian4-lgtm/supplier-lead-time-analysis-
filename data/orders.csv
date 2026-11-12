@@ -1,0 +1,601 @@
+order_id,supplier_id,supplier_name,country,material,order_date,quantity,promised_days,actual_days,defect_rate_pct,waste_pct
+PO0160,S20,Supplier 20,Italy,Aluminium alloy,2024-01-03,1808,42,41,3.05,5.02
+PO0179,S12,Supplier 12,Germany,Machined parts,2024-01-07,870,28,31,4.08,6.76
+PO0309,S08,Supplier 08,India,Aluminium alloy,2024-01-07,725,28,37,4.09,3.04
+PO0008,S08,Supplier 08,India,Cast steel,2024-01-08,1499,28,35,3.11,3.03
+PO0027,S17,Supplier 17,Finland,Machined parts,2024-01-09,262,35,37,0.35,5.47
+PO0353,S05,Supplier 05,India,Cast steel,2024-01-10,1315,28,28,2.49,1.59
+PO0408,S12,Supplier 12,Germany,Bearings,2024-01-10,329,28,29,3.94,6.08
+PO0506,S15,Supplier 15,Finland,Aluminium alloy,2024-01-12,479,28,17,2.19,2.09
+PO0079,S11,Supplier 11,Italy,Cast steel,2024-01-13,937,42,46,1.94,3.05
+PO0592,S11,Supplier 11,Italy,Machined parts,2024-01-13,1828,42,43,2.54,0
+PO0306,S06,Supplier 06,Italy,Machined parts,2024-01-15,740,14,21,4.16,2.15
+PO0567,S12,Supplier 12,Germany,Fasteners,2024-01-15,440,28,32,2.83,5.08
+PO0347,S05,Supplier 05,India,Fasteners,2024-01-17,1524,28,27,3.49,2.81
+PO0282,S16,Supplier 16,Germany,Aluminium alloy,2024-01-18,728,14,14,1.79,2.2
+PO0355,S01,Supplier 01,Turkey,Aluminium alloy,2024-01-18,85,14,18,0.7,0
+PO0445,S03,Supplier 03,Germany,Stainless steel,2024-01-18,131,42,41,2.25,5.13
+PO0572,S13,Supplier 13,Poland,Stainless steel,2024-01-20,509,21,24,3.62,3.58
+PO0510,S10,Supplier 10,Turkey,Aluminium alloy,2024-01-21,584,42,51,1.51,4.09
+PO0396,S04,Supplier 04,Italy,Aluminium alloy,2024-01-24,1377,14,24,2.97,4.31
+PO0052,S05,Supplier 05,India,Cast steel,2024-01-26,551,28,33,2.72,3.24
+PO0248,S04,Supplier 04,Italy,Machined parts,2024-01-27,431,14,19,1.07,2.95
+PO0477,S06,Supplier 06,Italy,Fasteners,2024-02-01,1582,14,28,3.43,3.14
+PO0322,S16,Supplier 16,Germany,Aluminium alloy,2024-02-02,887,14,13,3.0,5.76
+PO0155,S09,Supplier 09,Spain,Bearings,2024-02-03,1996,28,27,2.26,6.01
+PO0143,S15,Supplier 15,Finland,Cast steel,2024-02-04,1912,28,18,1.56,1.08
+PO0245,S15,Supplier 15,Finland,Machined parts,2024-02-05,800,28,32,2.6,0
+PO0033,S18,Supplier 18,Germany,Stainless steel,2024-02-06,930,14,22,0.38,6.2
+PO0302,S06,Supplier 06,Italy,Bearings,2024-02-07,1663,14,18,2.02,3.73
+PO0213,S17,Supplier 17,Finland,Fasteners,2024-02-08,318,35,35,0,4.3
+PO0303,S10,Supplier 10,Turkey,Cast steel,2024-02-08,1951,42,52,1.27,5.21
+PO0532,S13,Supplier 13,Poland,Bearings,2024-02-09,1871,21,30,4.57,2.95
+PO0584,S06,Supplier 06,Italy,Aluminium alloy,2024-02-10,787,14,20,4.12,2.66
+PO0475,S20,Supplier 20,Italy,Stainless steel,2024-02-11,236,42,50,2.23,4.61
+PO0124,S14,Supplier 14,Italy,Aluminium alloy,2024-02-14,1575,21,26,0,5.54
+PO0185,S10,Supplier 10,Turkey,Cast steel,2024-02-16,65,42,49,3.47,5.05
+PO0279,S02,Supplier 02,Turkey,Bearings,2024-02-16,1113,42,46,1.42,2.96
+PO0321,S03,Supplier 03,Germany,Fasteners,2024-02-16,173,42,35,2.89,2.96
+PO0461,S17,Supplier 17,Finland,Bearings,2024-02-17,1823,35,41,1.14,4.41
+PO0174,S14,Supplier 14,Italy,Aluminium alloy,2024-02-22,1279,21,18,1.13,5.61
+PO0071,S18,Supplier 18,Germany,Machined parts,2024-02-23,190,14,23,1.29,5.83
+PO0560,S16,Supplier 16,Germany,Machined parts,2024-02-24,1245,14,17,1.84,4.37
+PO0259,S17,Supplier 17,Finland,Aluminium alloy,2024-02-26,387,35,42,0.39,6.35
+PO0331,S07,Supplier 07,Italy,Stainless steel,2024-02-27,1720,42,56,2.97,2.85
+PO0360,S16,Supplier 16,Germany,Machined parts,2024-02-27,69,14,15,2.72,4.7
+PO0019,S11,Supplier 11,Italy,Fasteners,2024-02-28,372,42,46,3.42,2.73
+PO0450,S08,Supplier 08,India,Stainless steel,2024-02-29,226,28,43,3.86,3.39
+PO0489,S09,Supplier 09,Spain,Aluminium alloy,2024-02-29,1620,28,29,1.94,5.16
+PO0016,S13,Supplier 13,Poland,Stainless steel,2024-03-01,826,21,26,4.48,4.23
+PO0420,S14,Supplier 14,Italy,Aluminium alloy,2024-03-01,1825,21,28,0.58,3.54
+PO0497,S11,Supplier 11,Italy,Stainless steel,2024-03-01,1635,42,46,3.29,2.52
+PO0467,S16,Supplier 16,Germany,Aluminium alloy,2024-03-02,240,14,15,2.74,6.01
+PO0012,S04,Supplier 04,Italy,Bearings,2024-03-03,1541,14,21,1.02,4.97
+PO0235,S05,Supplier 05,India,Cast steel,2024-03-05,650,28,25,0,4.04
+PO0062,S07,Supplier 07,Italy,Bearings,2024-03-06,884,42,51,0.58,2.66
+PO0020,S06,Supplier 06,Italy,Fasteners,2024-03-11,189,14,22,3.64,2.87
+PO0120,S05,Supplier 05,India,Aluminium alloy,2024-03-12,1632,28,25,1.83,2.2
+PO0443,S20,Supplier 20,Italy,Aluminium alloy,2024-03-13,1962,42,37,0.3,4.9
+PO0188,S12,Supplier 12,Germany,Bearings,2024-03-14,1814,28,30,3.64,3.69
+PO0340,S02,Supplier 02,Turkey,Stainless steel,2024-03-15,1697,42,46,1.2,2.62
+PO0498,S12,Supplier 12,Germany,Aluminium alloy,2024-03-15,1492,28,32,4.43,4.54
+PO0193,S06,Supplier 06,Italy,Fasteners,2024-03-19,447,14,18,3.87,4.57
+PO0247,S15,Supplier 15,Finland,Bearings,2024-03-19,693,28,21,1.75,1.1
+PO0364,S13,Supplier 13,Poland,Aluminium alloy,2024-03-19,382,21,25,2.73,3.6
+PO0377,S16,Supplier 16,Germany,Machined parts,2024-03-19,1330,14,11,4.29,3.51
+PO0189,S15,Supplier 15,Finland,Fasteners,2024-03-20,878,28,34,1.39,1.32
+PO0433,S16,Supplier 16,Germany,Machined parts,2024-03-20,961,14,15,3.24,7.02
+PO0598,S08,Supplier 08,India,Bearings,2024-03-21,959,28,35,3.78,2.42
+PO0517,S10,Supplier 10,Turkey,Bearings,2024-03-24,1014,42,45,1.27,2.47
+PO0240,S09,Supplier 09,Spain,Machined parts,2024-03-25,919,28,32,3.74,6.69
+PO0370,S03,Supplier 03,Germany,Aluminium alloy,2024-03-25,365,42,36,1.3,3.98
+PO0410,S06,Supplier 06,Italy,Fasteners,2024-03-25,113,14,16,4.06,2.84
+PO0172,S03,Supplier 03,Germany,Cast steel,2024-03-28,934,42,37,3.39,3.66
+PO0462,S11,Supplier 11,Italy,Fasteners,2024-03-29,985,42,48,3.68,1.43
+PO0251,S15,Supplier 15,Finland,Aluminium alloy,2024-03-30,1417,28,35,0.24,1.38
+PO0527,S03,Supplier 03,Germany,Aluminium alloy,2024-03-30,1804,42,38,2.84,2.33
+PO0474,S04,Supplier 04,Italy,Stainless steel,2024-04-02,1703,14,22,1.28,0.88
+PO0180,S01,Supplier 01,Turkey,Machined parts,2024-04-03,1136,14,22,1.0,2.94
+PO0030,S02,Supplier 02,Turkey,Machined parts,2024-04-04,917,42,45,1.22,4.22
+PO0339,S12,Supplier 12,Germany,Cast steel,2024-04-04,599,28,28,3.34,3.8
+PO0015,S01,Supplier 01,Turkey,Stainless steel,2024-04-05,882,14,24,0.12,0.89
+PO0117,S14,Supplier 14,Italy,Cast steel,2024-04-05,995,21,23,2.79,6.73
+PO0210,S17,Supplier 17,Finland,Machined parts,2024-04-05,1423,35,34,0.56,5.4
+PO0011,S07,Supplier 07,Italy,Bearings,2024-04-06,891,42,53,1.5,0
+PO0585,S04,Supplier 04,Italy,Cast steel,2024-04-07,1794,14,23,0.51,4.06
+PO0395,S16,Supplier 16,Germany,Aluminium alloy,2024-04-09,187,14,11,3.29,4.5
+PO0298,S16,Supplier 16,Germany,Machined parts,2024-04-12,1628,14,15,4.16,7.53
+PO0490,S06,Supplier 06,Italy,Stainless steel,2024-04-12,1395,14,18,3.96,5.13
+PO0372,S09,Supplier 09,Spain,Stainless steel,2024-04-14,228,28,31,3.11,7.12
+PO0435,S03,Supplier 03,Germany,Aluminium alloy,2024-04-14,330,42,46,2.78,0.91
+PO0094,S16,Supplier 16,Germany,Cast steel,2024-04-15,1225,14,13,2.62,6.51
+PO0578,S14,Supplier 14,Italy,Fasteners,2024-04-17,1522,21,17,0.79,4.43
+PO0028,S04,Supplier 04,Italy,Machined parts,2024-04-19,1183,14,20,2.23,3.75
+PO0378,S15,Supplier 15,Finland,Stainless steel,2024-04-19,673,28,29,2.99,1.69
+PO0507,S09,Supplier 09,Spain,Bearings,2024-04-20,1550,28,28,2.53,5.28
+PO0042,S02,Supplier 02,Turkey,Fasteners,2024-04-21,939,42,43,0.31,6.28
+PO0032,S01,Supplier 01,Turkey,Cast steel,2024-04-24,1985,14,19,2.1,0
+PO0383,S12,Supplier 12,Germany,Fasteners,2024-04-26,418,28,31,3.46,4.34
+PO0152,S16,Supplier 16,Germany,Cast steel,2024-04-28,530,14,13,3.15,4.75
+PO0249,S18,Supplier 18,Germany,Bearings,2024-04-30,489,14,19,1.91,6.47
+PO0342,S07,Supplier 07,Italy,Machined parts,2024-04-30,1594,42,50,0.42,1.61
+PO0090,S11,Supplier 11,Italy,Machined parts,2024-05-02,1147,42,47,4.31,0.83
+PO0460,S12,Supplier 12,Germany,Fasteners,2024-05-02,1428,28,31,4.09,4.53
+PO0227,S10,Supplier 10,Turkey,Fasteners,2024-05-04,986,42,51,1.45,6.34
+PO0439,S05,Supplier 05,India,Bearings,2024-05-06,694,28,24,1.21,3.64
+PO0220,S17,Supplier 17,Finland,Aluminium alloy,2024-05-07,221,35,37,1.28,3.92
+PO0004,S18,Supplier 18,Germany,Stainless steel,2024-05-08,1401,14,12,0.29,5.72
+PO0093,S18,Supplier 18,Germany,Fasteners,2024-05-09,648,14,18,3.43,5.28
+PO0481,S15,Supplier 15,Finland,Aluminium alloy,2024-05-11,300,28,40,3.03,2.92
+PO0208,S13,Supplier 13,Poland,Fasteners,2024-05-12,1501,21,33,4.32,3.82
+PO0255,S18,Supplier 18,Germany,Aluminium alloy,2024-05-12,865,14,18,1.07,7.4
+PO0031,S11,Supplier 11,Italy,Machined parts,2024-05-13,954,42,41,2.67,0.19
+PO0479,S08,Supplier 08,India,Machined parts,2024-05-13,1340,28,39,4.27,4.13
+PO0319,S15,Supplier 15,Finland,Cast steel,2024-05-15,1194,28,21,2.11,0
+PO0324,S18,Supplier 18,Germany,Machined parts,2024-05-16,1811,14,25,1.0,6.1
+PO0380,S20,Supplier 20,Italy,Aluminium alloy,2024-05-19,706,42,41,0,4.26
+PO0224,S05,Supplier 05,India,Cast steel,2024-05-20,637,28,24,2.41,2.73
+PO0296,S09,Supplier 09,Spain,Cast steel,2024-05-20,1310,28,26,2.75,5.03
+PO0562,S05,Supplier 05,India,Stainless steel,2024-05-20,751,28,28,0.75,4.25
+PO0280,S17,Supplier 17,Finland,Aluminium alloy,2024-05-23,1957,35,41,0.87,4.41
+PO0478,S04,Supplier 04,Italy,Cast steel,2024-05-23,74,14,20,3.15,3.74
+PO0504,S16,Supplier 16,Germany,Aluminium alloy,2024-05-24,1576,14,13,3.47,5.69
+PO0104,S09,Supplier 09,Spain,Cast steel,2024-05-25,172,28,30,3.13,6.8
+PO0563,S15,Supplier 15,Finland,Cast steel,2024-05-26,1048,28,24,3.35,0
+PO0376,S16,Supplier 16,Germany,Cast steel,2024-05-29,392,14,15,2.05,5.68
+PO0221,S17,Supplier 17,Finland,Stainless steel,2024-05-30,1722,35,40,0.92,3.81
+PO0054,S08,Supplier 08,India,Machined parts,2024-05-31,1458,28,30,4.84,3.73
+PO0122,S16,Supplier 16,Germany,Bearings,2024-06-01,1153,14,10,2.1,5.28
+PO0582,S16,Supplier 16,Germany,Cast steel,2024-06-01,1646,14,15,1.54,5.03
+PO0595,S13,Supplier 13,Poland,Fasteners,2024-06-01,161,21,28,2.82,7.01
+PO0207,S20,Supplier 20,Italy,Stainless steel,2024-06-02,1927,42,46,1.61,3.53
+PO0529,S14,Supplier 14,Italy,Cast steel,2024-06-02,1944,21,25,2.13,6.74
+PO0520,S02,Supplier 02,Turkey,Machined parts,2024-06-03,1416,42,46,2.08,5.56
+PO0101,S03,Supplier 03,Germany,Fasteners,2024-06-09,1012,42,48,2.33,2.32
+PO0513,S14,Supplier 14,Italy,Stainless steel,2024-06-09,888,21,25,1.51,4.47
+PO0181,S11,Supplier 11,Italy,Fasteners,2024-06-10,1271,42,39,4.08,1.73
+PO0456,S12,Supplier 12,Germany,Aluminium alloy,2024-06-10,1633,28,30,4.51,5.91
+PO0204,S20,Supplier 20,Italy,Aluminium alloy,2024-06-11,813,42,48,1.38,4.79
+PO0430,S10,Supplier 10,Turkey,Aluminium alloy,2024-06-11,241,42,42,0.86,3.48
+PO0589,S02,Supplier 02,Turkey,Bearings,2024-06-12,1693,42,47,2.18,3.37
+PO0067,S13,Supplier 13,Poland,Fasteners,2024-06-18,1143,21,30,2.17,5.4
+PO0132,S15,Supplier 15,Finland,Machined parts,2024-06-19,663,28,18,2.39,1.43
+PO0242,S14,Supplier 14,Italy,Machined parts,2024-06-19,959,21,26,1.13,5.38
+PO0505,S11,Supplier 11,Italy,Machined parts,2024-06-20,1422,42,37,1.59,0
+PO0525,S06,Supplier 06,Italy,Stainless steel,2024-06-20,137,14,28,3.65,0.48
+PO0350,S12,Supplier 12,Germany,Stainless steel,2024-06-22,1525,28,29,3.19,4.75
+PO0134,S06,Supplier 06,Italy,Stainless steel,2024-06-23,211,14,23,3.29,2.9
+PO0539,S01,Supplier 01,Turkey,Cast steel,2024-06-26,560,14,22,2.23,2.1
+PO0187,S14,Supplier 14,Italy,Stainless steel,2024-06-28,1074,21,25,1.99,3.43
+PO0307,S07,Supplier 07,Italy,Bearings,2024-06-28,1743,42,46,0.28,0.53
+PO0492,S06,Supplier 06,Italy,Stainless steel,2024-06-29,1263,14,15,3.36,5.44
+PO0502,S05,Supplier 05,India,Machined parts,2024-06-30,53,28,32,3.48,2.48
+PO0356,S14,Supplier 14,Italy,Cast steel,2024-07-02,1930,21,22,1.65,5.48
+PO0458,S05,Supplier 05,India,Cast steel,2024-07-02,1182,28,28,2.04,1.61
+PO0178,S01,Supplier 01,Turkey,Aluminium alloy,2024-07-03,1489,14,17,0.96,0
+PO0488,S09,Supplier 09,Spain,Cast steel,2024-07-03,703,28,27,2.62,5.75
+PO0557,S18,Supplier 18,Germany,Machined parts,2024-07-04,579,14,18,2.16,5.25
+PO0069,S15,Supplier 15,Finland,Stainless steel,2024-07-05,981,28,35,2.43,0.69
+PO0084,S11,Supplier 11,Italy,Bearings,2024-07-05,484,42,45,2.76,2.13
+PO0095,S11,Supplier 11,Italy,Bearings,2024-07-07,283,42,45,3.01,1.92
+PO0336,S13,Supplier 13,Poland,Fasteners,2024-07-07,1019,21,27,3.72,5.07
+PO0369,S14,Supplier 14,Italy,Cast steel,2024-07-09,1631,21,19,0.21,3.51
+PO0519,S12,Supplier 12,Germany,Bearings,2024-07-10,589,28,29,3.89,5.11
+PO0536,S03,Supplier 03,Germany,Bearings,2024-07-11,482,42,36,3.02,1.91
+PO0552,S10,Supplier 10,Turkey,Stainless steel,2024-07-11,1109,42,38,1.37,1.67
+PO0555,S19,Supplier 19,Turkey,Machined parts,2024-07-13,1144,28,28,4.88,6.25
+PO0013,S08,Supplier 08,India,Bearings,2024-07-15,425,28,39,4.32,3.5
+PO0092,S04,Supplier 04,Italy,Aluminium alloy,2024-07-17,515,14,20,1.43,3.73
+PO0217,S16,Supplier 16,Germany,Bearings,2024-07-17,995,14,10,4.25,5.43
+PO0561,S16,Supplier 16,Germany,Bearings,2024-07-18,1135,14,10,2.81,5.06
+PO0076,S13,Supplier 13,Poland,Cast steel,2024-07-22,1262,21,19,3.27,2.64
+PO0250,S16,Supplier 16,Germany,Cast steel,2024-07-23,327,14,14,3.35,4.12
+PO0144,S06,Supplier 06,Italy,Stainless steel,2024-07-24,1660,14,27,1.83,2.87
+PO0526,S14,Supplier 14,Italy,Machined parts,2024-07-25,352,21,28,1.58,4.29
+PO0338,S09,Supplier 09,Spain,Aluminium alloy,2024-07-27,1374,28,27,3.55,6.54
+PO0063,S02,Supplier 02,Turkey,Fasteners,2024-07-30,1987,42,45,0.42,3.74
+PO0159,S18,Supplier 18,Germany,Stainless steel,2024-07-31,722,14,13,0.53,5.81
+PO0426,S14,Supplier 14,Italy,Bearings,2024-08-04,599,21,21,0.98,5.97
+PO0175,S17,Supplier 17,Finland,Cast steel,2024-08-05,767,35,42,1.99,5.52
+PO0273,S08,Supplier 08,India,Aluminium alloy,2024-08-08,1063,28,35,3.38,1.77
+PO0091,S07,Supplier 07,Italy,Fasteners,2024-08-09,1606,42,50,0.37,0.52
+PO0018,S10,Supplier 10,Turkey,Cast steel,2024-08-10,1236,42,45,1.18,3.81
+PO0341,S18,Supplier 18,Germany,Aluminium alloy,2024-08-10,670,14,11,1.5,5.69
+PO0548,S09,Supplier 09,Spain,Bearings,2024-08-11,668,28,30,2.12,3.9
+PO0491,S02,Supplier 02,Turkey,Bearings,2024-08-12,776,42,42,0.07,7.94
+PO0313,S20,Supplier 20,Italy,Stainless steel,2024-08-14,981,42,49,1.11,5.35
+PO0544,S07,Supplier 07,Italy,Machined parts,2024-08-14,511,42,45,0.73,0.63
+PO0459,S14,Supplier 14,Italy,Machined parts,2024-08-17,705,21,20,2.02,5.03
+PO0291,S10,Supplier 10,Turkey,Aluminium alloy,2024-08-18,1493,42,58,0.39,4.73
+PO0098,S20,Supplier 20,Italy,Fasteners,2024-08-19,829,42,51,0,5.77
+PO0568,S08,Supplier 08,India,Machined parts,2024-08-19,1846,28,37,3.27,4.18
+PO0131,S10,Supplier 10,Turkey,Cast steel,2024-08-20,1607,42,47,0.35,2.61
+PO0039,S10,Supplier 10,Turkey,Bearings,2024-08-21,722,42,48,2.36,4.15
+PO0457,S04,Supplier 04,Italy,Cast steel,2024-08-21,550,14,20,1.81,4.04
+PO0348,S11,Supplier 11,Italy,Bearings,2024-08-23,1216,42,43,3.61,0.17
+PO0301,S19,Supplier 19,Turkey,Cast steel,2024-08-25,1920,28,25,3.55,8.23
+PO0216,S15,Supplier 15,Finland,Fasteners,2024-08-27,539,28,40,1.65,3.67
+PO0194,S05,Supplier 05,India,Cast steel,2024-08-29,349,28,25,1.61,4.15
+PO0470,S05,Supplier 05,India,Aluminium alloy,2024-08-30,584,28,26,2.71,1.2
+PO0003,S10,Supplier 10,Turkey,Cast steel,2024-09-02,225,42,55,1.79,3.99
+PO0116,S20,Supplier 20,Italy,Machined parts,2024-09-02,374,42,56,0.64,5.56
+PO0442,S02,Supplier 02,Turkey,Bearings,2024-09-02,840,42,46,1.82,5.46
+PO0329,S01,Supplier 01,Turkey,Cast steel,2024-09-03,964,14,20,1.17,0.19
+PO0597,S11,Supplier 11,Italy,Fasteners,2024-09-03,506,42,41,3.71,0.28
+PO0269,S11,Supplier 11,Italy,Stainless steel,2024-09-04,338,42,40,3.27,2.21
+PO0375,S18,Supplier 18,Germany,Bearings,2024-09-05,397,14,17,1.07,6.14
+PO0382,S19,Supplier 19,Turkey,Aluminium alloy,2024-09-05,820,28,26,3.56,9.2
+PO0083,S15,Supplier 15,Finland,Machined parts,2024-09-06,826,28,28,1.15,0.91
+PO0158,S11,Supplier 11,Italy,Stainless steel,2024-09-06,1661,42,42,2.87,1.21
+PO0330,S02,Supplier 02,Turkey,Machined parts,2024-09-07,140,42,44,0.63,5.04
+PO0072,S01,Supplier 01,Turkey,Stainless steel,2024-09-10,1768,14,17,1.27,1.81
+PO0315,S07,Supplier 07,Italy,Cast steel,2024-09-10,1126,42,48,0.04,0
+PO0327,S08,Supplier 08,India,Stainless steel,2024-09-10,1969,28,33,3.62,5.11
+PO0440,S03,Supplier 03,Germany,Fasteners,2024-09-11,1280,42,39,1.43,1.58
+PO0421,S05,Supplier 05,India,Stainless steel,2024-09-12,1609,28,29,2.19,4.07
+PO0486,S17,Supplier 17,Finland,Machined parts,2024-09-12,1692,35,42,1.08,4.81
+PO0161,S18,Supplier 18,Germany,Cast steel,2024-09-13,319,14,20,0.92,7.6
+PO0219,S05,Supplier 05,India,Aluminium alloy,2024-09-13,1185,28,31,1.92,5.14
+PO0237,S16,Supplier 16,Germany,Aluminium alloy,2024-09-16,781,14,16,3.08,5.42
+PO0186,S05,Supplier 05,India,Aluminium alloy,2024-09-18,721,28,35,2.31,4.37
+PO0583,S04,Supplier 04,Italy,Aluminium alloy,2024-09-19,590,14,19,1.17,2.41
+PO0349,S11,Supplier 11,Italy,Machined parts,2024-09-20,1364,42,43,2.22,1.3
+PO0059,S15,Supplier 15,Finland,Aluminium alloy,2024-09-22,1618,28,29,0.65,1.88
+PO0453,S17,Supplier 17,Finland,Aluminium alloy,2024-09-22,1551,35,41,1.59,6.43
+PO0480,S19,Supplier 19,Turkey,Cast steel,2024-09-22,94,28,30,4.36,7.12
+PO0310,S01,Supplier 01,Turkey,Machined parts,2024-09-24,786,14,24,0.72,1.32
+PO0100,S07,Supplier 07,Italy,Machined parts,2024-09-27,216,42,53,1.28,2.11
+PO0264,S19,Supplier 19,Turkey,Machined parts,2024-09-28,481,28,32,3.92,5.89
+PO0514,S18,Supplier 18,Germany,Machined parts,2024-09-28,626,14,13,1.18,6.0
+PO0121,S17,Supplier 17,Finland,Aluminium alloy,2024-09-30,1765,35,41,0.64,1.09
+PO0238,S11,Supplier 11,Italy,Cast steel,2024-10-06,1687,42,42,2.01,3.25
+PO0305,S15,Supplier 15,Finland,Stainless steel,2024-10-06,1547,28,30,2.55,0.74
+PO0060,S08,Supplier 08,India,Bearings,2024-10-08,208,28,30,3.37,2.81
+PO0198,S10,Supplier 10,Turkey,Fasteners,2024-10-08,165,42,49,1.02,4.61
+PO0411,S02,Supplier 02,Turkey,Bearings,2024-10-08,1208,42,45,1.76,4.44
+PO0551,S11,Supplier 11,Italy,Aluminium alloy,2024-10-10,1393,42,39,1.91,0.78
+PO0070,S13,Supplier 13,Poland,Bearings,2024-10-11,566,21,31,4.14,3.05
+PO0184,S04,Supplier 04,Italy,Machined parts,2024-10-17,1439,14,20,1.05,2.13
+PO0206,S13,Supplier 13,Poland,Aluminium alloy,2024-10-17,1532,21,27,4.91,1.72
+PO0017,S15,Supplier 15,Finland,Fasteners,2024-10-19,1405,28,13,3.12,1.5
+PO0274,S16,Supplier 16,Germany,Fasteners,2024-10-19,66,14,12,3.3,4.13
+PO0293,S09,Supplier 09,Spain,Bearings,2024-10-21,1884,28,31,3.61,8.11
+PO0105,S19,Supplier 19,Turkey,Aluminium alloy,2024-10-22,1483,28,27,4.16,6.35
+PO0276,S18,Supplier 18,Germany,Cast steel,2024-10-22,841,14,18,0,5.43
+PO0252,S18,Supplier 18,Germany,Aluminium alloy,2024-10-24,1793,14,21,1.98,7.06
+PO0294,S05,Supplier 05,India,Cast steel,2024-10-24,639,28,26,1.94,3.27
+PO0229,S05,Supplier 05,India,Stainless steel,2024-10-25,1218,28,23,2.1,1.87
+PO0133,S02,Supplier 02,Turkey,Stainless steel,2024-10-27,1137,42,44,1.77,2.99
+PO0212,S03,Supplier 03,Germany,Cast steel,2024-10-29,1089,42,45,2.51,0.28
+PO0393,S04,Supplier 04,Italy,Cast steel,2024-10-29,1752,14,16,2.89,3.56
+PO0580,S14,Supplier 14,Italy,Stainless steel,2024-10-29,130,21,21,0,4.31
+PO0266,S13,Supplier 13,Poland,Bearings,2024-10-31,199,21,27,3.51,3.56
+PO0281,S20,Supplier 20,Italy,Fasteners,2024-11-02,1140,42,44,0.17,3.84
+PO0535,S05,Supplier 05,India,Aluminium alloy,2024-11-03,601,28,31,1.49,3.19
+PO0048,S19,Supplier 19,Turkey,Bearings,2024-11-04,1172,28,28,4.17,6.25
+PO0165,S17,Supplier 17,Finland,Cast steel,2024-11-04,1030,35,30,1.77,5.6
+PO0577,S01,Supplier 01,Turkey,Fasteners,2024-11-04,602,14,19,0.99,0.38
+PO0097,S19,Supplier 19,Turkey,Fasteners,2024-11-07,1615,28,33,4.14,5.73
+PO0463,S19,Supplier 19,Turkey,Aluminium alloy,2024-11-07,1261,28,31,3.23,11.26
+PO0466,S13,Supplier 13,Poland,Cast steel,2024-11-10,470,21,31,3.1,4.05
+PO0283,S19,Supplier 19,Turkey,Machined parts,2024-11-11,1338,28,33,2.6,8.47
+PO0211,S12,Supplier 12,Germany,Bearings,2024-11-12,443,28,31,4.18,5.07
+PO0075,S06,Supplier 06,Italy,Aluminium alloy,2024-11-14,1229,14,21,4.02,2.32
+PO0006,S07,Supplier 07,Italy,Bearings,2024-11-15,1425,42,48,0.51,0.45
+PO0171,S04,Supplier 04,Italy,Aluminium alloy,2024-11-16,362,14,18,2.39,2.42
+PO0346,S12,Supplier 12,Germany,Bearings,2024-11-16,143,28,28,3.16,4.65
+PO0381,S16,Supplier 16,Germany,Aluminium alloy,2024-11-17,646,14,15,3.54,5.01
+PO0022,S17,Supplier 17,Finland,Aluminium alloy,2024-11-19,468,35,42,0.89,3.96
+PO0236,S02,Supplier 02,Turkey,Aluminium alloy,2024-11-19,1105,42,47,0,5.85
+PO0061,S11,Supplier 11,Italy,Stainless steel,2024-11-23,523,42,43,2.94,0.88
+PO0300,S10,Supplier 10,Turkey,Aluminium alloy,2024-11-24,1372,42,41,2.48,4.98
+PO0082,S09,Supplier 09,Spain,Stainless steel,2024-11-26,1751,28,30,3.37,5.53
+PO0197,S20,Supplier 20,Italy,Stainless steel,2024-11-26,950,42,52,0,6.56
+PO0129,S03,Supplier 03,Germany,Bearings,2024-12-02,698,42,48,1.05,0.79
+PO0111,S06,Supplier 06,Italy,Machined parts,2024-12-03,1985,14,16,4.39,2.01
+PO0009,S02,Supplier 02,Turkey,Machined parts,2024-12-04,1044,42,45,1.36,4.68
+PO0089,S18,Supplier 18,Germany,Aluminium alloy,2024-12-04,564,14,17,1.99,5.72
+PO0581,S16,Supplier 16,Germany,Cast steel,2024-12-04,1907,14,14,2.95,6.38
+PO0041,S18,Supplier 18,Germany,Aluminium alloy,2024-12-05,415,14,21,1.14,2.48
+PO0390,S13,Supplier 13,Poland,Bearings,2024-12-05,266,21,24,4.3,4.27
+PO0051,S20,Supplier 20,Italy,Stainless steel,2024-12-09,1427,42,57,1.79,4.57
+PO0454,S01,Supplier 01,Turkey,Bearings,2024-12-09,607,14,17,0.2,1.58
+PO0499,S04,Supplier 04,Italy,Stainless steel,2024-12-10,1549,14,20,2.27,4.96
+PO0263,S20,Supplier 20,Italy,Cast steel,2024-12-11,216,42,51,0,7.03
+PO0146,S10,Supplier 10,Turkey,Cast steel,2024-12-12,1009,42,43,1.63,4.08
+PO0367,S03,Supplier 03,Germany,Fasteners,2024-12-14,862,42,37,1.64,3.59
+PO0496,S05,Supplier 05,India,Machined parts,2024-12-14,413,28,26,2.97,2.28
+PO0571,S05,Supplier 05,India,Stainless steel,2024-12-16,387,28,31,1.61,5.95
+PO0587,S12,Supplier 12,Germany,Bearings,2024-12-16,606,28,31,4.42,5.91
+PO0029,S07,Supplier 07,Italy,Aluminium alloy,2024-12-17,1085,42,51,2.1,0
+PO0394,S10,Supplier 10,Turkey,Bearings,2024-12-17,1656,42,46,1.45,5.56
+PO0260,S08,Supplier 08,India,Fasteners,2024-12-20,1882,28,49,3.44,4.14
+PO0078,S02,Supplier 02,Turkey,Fasteners,2024-12-21,927,42,47,0.95,4.15
+PO0415,S09,Supplier 09,Spain,Cast steel,2024-12-22,1638,28,29,2.52,6.23
+PO0040,S09,Supplier 09,Spain,Machined parts,2024-12-25,1093,28,29,0.96,7.91
+PO0232,S01,Supplier 01,Turkey,Cast steel,2024-12-31,756,14,22,0.88,3.47
+PO0501,S20,Supplier 20,Italy,Stainless steel,2024-12-31,824,42,49,1.75,4.74
+PO0034,S02,Supplier 02,Turkey,Stainless steel,2025-01-01,1446,42,45,1.11,5.1
+PO0586,S11,Supplier 11,Italy,Bearings,2025-01-01,1323,42,46,2.99,3.33
+PO0487,S13,Supplier 13,Poland,Aluminium alloy,2025-01-02,1919,21,20,3.86,3.24
+PO0254,S01,Supplier 01,Turkey,Fasteners,2025-01-04,1222,14,24,0,3.31
+PO0253,S06,Supplier 06,Italy,Stainless steel,2025-01-05,1672,14,18,3.88,5.01
+PO0045,S07,Supplier 07,Italy,Aluminium alloy,2025-01-07,1326,42,43,1.83,0.58
+PO0275,S09,Supplier 09,Spain,Bearings,2025-01-09,154,28,28,2.02,5.2
+PO0278,S18,Supplier 18,Germany,Stainless steel,2025-01-09,457,14,28,0.64,4.76
+PO0401,S06,Supplier 06,Italy,Aluminium alloy,2025-01-09,1423,14,18,4.69,4.61
+PO0088,S19,Supplier 19,Turkey,Bearings,2025-01-12,1183,28,28,3.0,6.89
+PO0153,S15,Supplier 15,Finland,Fasteners,2025-01-14,908,28,23,1.03,0
+PO0405,S06,Supplier 06,Italy,Bearings,2025-01-17,1271,14,18,3.0,4.41
+PO0223,S03,Supplier 03,Germany,Cast steel,2025-01-18,1768,42,43,3.01,2.3
+PO0323,S14,Supplier 14,Italy,Bearings,2025-01-18,819,21,26,1.24,7.8
+PO0511,S06,Supplier 06,Italy,Cast steel,2025-01-19,742,14,21,4.17,2.28
+PO0123,S18,Supplier 18,Germany,Stainless steel,2025-01-21,1478,14,16,1.48,5.57
+PO0386,S14,Supplier 14,Italy,Cast steel,2025-01-21,969,21,24,2.18,5.01
+PO0590,S20,Supplier 20,Italy,Aluminium alloy,2025-01-23,1302,42,47,1.89,5.71
+PO0064,S19,Supplier 19,Turkey,Bearings,2025-01-24,62,28,24,4.46,6.78
+PO0379,S20,Supplier 20,Italy,Aluminium alloy,2025-01-24,931,42,50,0.02,6.33
+PO0374,S11,Supplier 11,Italy,Cast steel,2025-01-29,647,42,45,1.95,2.47
+PO0125,S13,Supplier 13,Poland,Machined parts,2025-01-30,361,21,32,3.58,3.88
+PO0239,S15,Supplier 15,Finland,Machined parts,2025-01-30,1068,28,26,2.62,0.2
+PO0371,S05,Supplier 05,India,Cast steel,2025-02-02,1981,28,26,1.98,3.0
+PO0325,S18,Supplier 18,Germany,Stainless steel,2025-02-06,1759,14,13,1.05,5.74
+PO0023,S09,Supplier 09,Spain,Bearings,2025-02-09,697,28,31,3.62,8.45
+PO0192,S03,Supplier 03,Germany,Aluminium alloy,2025-02-09,1577,42,44,1.93,3.46
+PO0320,S01,Supplier 01,Turkey,Aluminium alloy,2025-02-09,1722,14,21,1.38,1.73
+PO0268,S12,Supplier 12,Germany,Stainless steel,2025-02-12,1607,28,29,2.97,6.09
+PO0538,S17,Supplier 17,Finland,Stainless steel,2025-02-17,1648,35,42,2.21,2.89
+PO0553,S20,Supplier 20,Italy,Machined parts,2025-02-17,102,42,45,0,3.05
+PO0190,S04,Supplier 04,Italy,Cast steel,2025-02-18,715,14,18,2.78,5.52
+PO0035,S18,Supplier 18,Germany,Stainless steel,2025-02-20,1820,14,26,1.07,6.61
+PO0299,S06,Supplier 06,Italy,Bearings,2025-02-20,1027,14,15,2.55,2.47
+PO0473,S11,Supplier 11,Italy,Stainless steel,2025-02-20,975,42,44,3.66,1.05
+PO0385,S03,Supplier 03,Germany,Aluminium alloy,2025-02-22,545,42,41,1.93,2.53
+PO0215,S02,Supplier 02,Turkey,Bearings,2025-02-24,1300,42,43,2.07,4.1
+PO0256,S17,Supplier 17,Finland,Bearings,2025-02-24,1736,35,40,0.86,4.59
+PO0036,S06,Supplier 06,Italy,Cast steel,2025-02-26,417,14,26,3.84,2.58
+PO0287,S05,Supplier 05,India,Fasteners,2025-02-26,1935,28,26,0.86,1.11
+PO0352,S01,Supplier 01,Turkey,Stainless steel,2025-02-26,1775,14,19,0.61,1.39
+PO0468,S17,Supplier 17,Finland,Machined parts,2025-02-26,1884,35,40,0,7.21
+PO0170,S08,Supplier 08,India,Aluminium alloy,2025-02-27,1744,28,32,2.71,4.02
+PO0521,S18,Supplier 18,Germany,Fasteners,2025-02-27,174,14,25,1.09,6.68
+PO0222,S01,Supplier 01,Turkey,Cast steel,2025-02-28,861,14,21,0.23,1.71
+PO0554,S09,Supplier 09,Spain,Bearings,2025-03-04,845,28,19,2.69,4.33
+PO0065,S13,Supplier 13,Poland,Fasteners,2025-03-05,1888,21,21,3.37,4.37
+PO0444,S19,Supplier 19,Turkey,Aluminium alloy,2025-03-06,1168,28,34,3.27,5.27
+PO0559,S10,Supplier 10,Turkey,Aluminium alloy,2025-03-06,1249,42,48,0.51,3.6
+PO0588,S16,Supplier 16,Germany,Machined parts,2025-03-07,1864,14,11,2.93,4.61
+PO0434,S04,Supplier 04,Italy,Machined parts,2025-03-08,320,14,21,1.29,3.07
+PO0055,S04,Supplier 04,Italy,Machined parts,2025-03-11,1110,14,21,3.28,1.45
+PO0099,S19,Supplier 19,Turkey,Fasteners,2025-03-15,1565,28,29,4.88,8.78
+PO0432,S08,Supplier 08,India,Machined parts,2025-03-15,236,28,46,3.5,3.61
+PO0566,S13,Supplier 13,Poland,Bearings,2025-03-15,835,21,23,4.67,4.26
+PO0049,S07,Supplier 07,Italy,Aluminium alloy,2025-03-16,1002,42,51,0,0
+PO0594,S04,Supplier 04,Italy,Machined parts,2025-03-19,1538,14,20,1.87,4.05
+PO0014,S03,Supplier 03,Germany,Fasteners,2025-03-29,250,42,46,5.21,3.97
+PO0599,S16,Supplier 16,Germany,Machined parts,2025-04-02,1388,14,11,4.87,6.39
+PO0087,S16,Supplier 16,Germany,Stainless steel,2025-04-03,878,14,14,2.48,4.81
+PO0196,S19,Supplier 19,Turkey,Machined parts,2025-04-04,1942,28,32,4.68,5.97
+PO0201,S02,Supplier 02,Turkey,Stainless steel,2025-04-05,708,42,46,0.55,3.42
+PO0202,S02,Supplier 02,Turkey,Cast steel,2025-04-06,1710,42,44,1.7,3.89
+PO0368,S09,Supplier 09,Spain,Bearings,2025-04-06,517,28,27,1.6,8.16
+PO0007,S17,Supplier 17,Finland,Aluminium alloy,2025-04-07,93,35,42,1.62,4.13
+PO0199,S15,Supplier 15,Finland,Aluminium alloy,2025-04-07,207,28,35,2.36,0
+PO0112,S02,Supplier 02,Turkey,Cast steel,2025-04-10,694,42,46,1.1,5.13
+PO0157,S04,Supplier 04,Italy,Machined parts,2025-04-10,1272,14,21,2.16,3.33
+PO0424,S12,Supplier 12,Germany,Bearings,2025-04-10,720,28,28,2.28,3.78
+PO0053,S03,Supplier 03,Germany,Stainless steel,2025-04-11,1521,42,36,2.89,2.08
+PO0056,S04,Supplier 04,Italy,Stainless steel,2025-04-12,1691,14,21,0.9,3.27
+PO0429,S15,Supplier 15,Finland,Stainless steel,2025-04-12,1460,28,46,2.19,3.73
+PO0403,S12,Supplier 12,Germany,Machined parts,2025-04-13,1689,28,29,2.69,4.48
+PO0024,S01,Supplier 01,Turkey,Fasteners,2025-04-14,1203,14,18,1.13,1.71
+PO0425,S03,Supplier 03,Germany,Cast steel,2025-04-14,1679,42,37,1.39,1.72
+PO0358,S13,Supplier 13,Poland,Fasteners,2025-04-15,548,21,28,4.26,4.16
+PO0326,S10,Supplier 10,Turkey,Machined parts,2025-04-19,1522,42,47,0.26,3.83
+PO0337,S05,Supplier 05,India,Bearings,2025-04-19,1191,28,31,1.1,2.24
+PO0136,S01,Supplier 01,Turkey,Aluminium alloy,2025-04-21,1437,14,22,0.52,1.58
+PO0311,S04,Supplier 04,Italy,Fasteners,2025-04-21,1940,14,20,2.63,4.42
+PO0345,S16,Supplier 16,Germany,Bearings,2025-04-22,1609,14,18,4.13,6.6
+PO0128,S03,Supplier 03,Germany,Aluminium alloy,2025-04-25,743,42,33,1.74,1.7
+PO0596,S17,Supplier 17,Finland,Bearings,2025-04-25,1830,35,40,1.91,6.6
+PO0038,S02,Supplier 02,Turkey,Stainless steel,2025-04-26,458,42,44,1.47,3.32
+PO0110,S03,Supplier 03,Germany,Aluminium alloy,2025-04-26,886,42,46,1.72,4.09
+PO0119,S16,Supplier 16,Germany,Bearings,2025-04-28,440,14,14,3.83,6.44
+PO0050,S17,Supplier 17,Finland,Machined parts,2025-04-29,397,35,42,0.88,4.05
+PO0073,S05,Supplier 05,India,Stainless steel,2025-04-29,1002,28,25,0.73,2.77
+PO0576,S09,Supplier 09,Spain,Machined parts,2025-04-30,363,28,28,3.12,7.67
+PO0533,S02,Supplier 02,Turkey,Cast steel,2025-05-01,741,42,47,0.3,4.96
+PO0523,S08,Supplier 08,India,Machined parts,2025-05-02,121,28,35,4.27,1.08
+PO0292,S11,Supplier 11,Italy,Aluminium alloy,2025-05-06,1197,42,47,4.45,0.53
+PO0516,S20,Supplier 20,Italy,Stainless steel,2025-05-06,248,42,48,1.18,5.5
+PO0138,S13,Supplier 13,Poland,Cast steel,2025-05-09,535,21,27,3.13,4.98
+PO0591,S05,Supplier 05,India,Bearings,2025-05-09,952,28,29,1.44,4.3
+PO0267,S14,Supplier 14,Italy,Stainless steel,2025-05-10,690,21,18,1.43,5.77
+PO0066,S14,Supplier 14,Italy,Cast steel,2025-05-12,846,21,25,0.65,6.64
+PO0183,S14,Supplier 14,Italy,Stainless steel,2025-05-12,1596,21,18,0.76,3.99
+PO0406,S06,Supplier 06,Italy,Machined parts,2025-05-13,1150,14,23,3.5,2.03
+PO0086,S14,Supplier 14,Italy,Fasteners,2025-05-15,1602,21,21,1.33,6.45
+PO0318,S19,Supplier 19,Turkey,Cast steel,2025-05-15,1890,28,32,2.38,6.99
+PO0166,S04,Supplier 04,Italy,Machined parts,2025-05-17,1913,14,19,0.26,3.84
+PO0534,S09,Supplier 09,Spain,Machined parts,2025-05-18,1452,28,25,4.09,7.31
+PO0508,S14,Supplier 14,Italy,Bearings,2025-05-19,769,21,23,0.92,4.93
+PO0106,S18,Supplier 18,Germany,Bearings,2025-05-20,214,14,21,0,4.03
+PO0135,S08,Supplier 08,India,Bearings,2025-05-24,1356,28,40,3.27,3.64
+PO0265,S01,Supplier 01,Turkey,Machined parts,2025-05-24,668,14,23,0.17,0
+PO0272,S10,Supplier 10,Turkey,Cast steel,2025-05-24,234,42,47,2.1,3.76
+PO0579,S04,Supplier 04,Italy,Aluminium alloy,2025-05-24,1752,14,21,2.37,2.15
+PO0118,S05,Supplier 05,India,Machined parts,2025-05-25,647,28,26,0.99,3.35
+PO0366,S03,Supplier 03,Germany,Machined parts,2025-05-27,758,42,35,3.13,2.97
+PO0145,S17,Supplier 17,Finland,Aluminium alloy,2025-05-28,1921,35,46,0.45,5.49
+PO0164,S15,Supplier 15,Finland,Stainless steel,2025-05-30,1986,28,36,1.22,0.36
+PO0569,S13,Supplier 13,Poland,Cast steel,2025-05-30,660,21,24,3.43,5.47
+PO0203,S03,Supplier 03,Germany,Machined parts,2025-05-31,946,42,41,2.14,4.0
+PO0409,S18,Supplier 18,Germany,Bearings,2025-06-01,901,14,17,0.61,5.16
+PO0025,S07,Supplier 07,Italy,Cast steel,2025-06-02,1850,42,49,2.86,1.52
+PO0446,S13,Supplier 13,Poland,Aluminium alloy,2025-06-02,1337,21,22,3.37,2.22
+PO0046,S10,Supplier 10,Turkey,Aluminium alloy,2025-06-03,1415,42,54,0.52,4.9
+PO0556,S12,Supplier 12,Germany,Aluminium alloy,2025-06-03,1781,28,29,4.24,6.51
+PO0412,S18,Supplier 18,Germany,Cast steel,2025-06-07,1222,14,12,2.33,6.85
+PO0448,S03,Supplier 03,Germany,Stainless steel,2025-06-07,1704,42,44,2.71,3.43
+PO0373,S18,Supplier 18,Germany,Aluminium alloy,2025-06-08,1185,14,19,1.39,6.84
+PO0476,S13,Supplier 13,Poland,Cast steel,2025-06-09,1436,21,18,3.24,6.33
+PO0545,S14,Supplier 14,Italy,Machined parts,2025-06-09,68,21,29,1.45,4.46
+PO0113,S13,Supplier 13,Poland,Fasteners,2025-06-10,996,21,26,3.65,3.55
+PO0397,S08,Supplier 08,India,Fasteners,2025-06-12,923,28,38,3.93,4.5
+PO0537,S16,Supplier 16,Germany,Fasteners,2025-06-12,1670,14,16,1.72,5.74
+PO0109,S16,Supplier 16,Germany,Stainless steel,2025-06-15,1248,14,11,1.37,3.15
+PO0391,S17,Supplier 17,Finland,Stainless steel,2025-06-15,962,35,34,0.8,3.93
+PO0044,S01,Supplier 01,Turkey,Fasteners,2025-06-16,1456,14,24,0.56,0
+PO0230,S03,Supplier 03,Germany,Aluminium alloy,2025-06-20,188,42,46,3.28,2.11
+PO0304,S18,Supplier 18,Germany,Bearings,2025-06-20,1871,14,19,2.73,4.6
+PO0127,S04,Supplier 04,Italy,Stainless steel,2025-06-22,889,14,21,1.79,5.13
+PO0163,S14,Supplier 14,Italy,Bearings,2025-06-22,1643,21,23,1.46,4.05
+PO0289,S16,Supplier 16,Germany,Bearings,2025-06-22,1918,14,10,4.22,3.7
+PO0005,S09,Supplier 09,Spain,Stainless steel,2025-06-24,1952,28,30,2.18,4.03
+PO0218,S17,Supplier 17,Finland,Bearings,2025-06-24,381,35,33,1.82,2.9
+PO0387,S13,Supplier 13,Poland,Machined parts,2025-07-01,906,21,19,3.61,2.17
+PO0574,S09,Supplier 09,Spain,Fasteners,2025-07-01,149,28,25,2.57,5.7
+PO0522,S14,Supplier 14,Italy,Machined parts,2025-07-02,1825,21,15,2.23,4.48
+PO0530,S10,Supplier 10,Turkey,Aluminium alloy,2025-07-02,1847,42,51,0.54,4.86
+PO0148,S09,Supplier 09,Spain,Cast steel,2025-07-03,981,28,29,1.88,7.38
+PO0130,S16,Supplier 16,Germany,Cast steel,2025-07-08,1314,14,11,3.84,5.88
+PO0465,S08,Supplier 08,India,Cast steel,2025-07-08,1997,28,30,4.76,2.63
+PO0413,S12,Supplier 12,Germany,Machined parts,2025-07-09,953,28,31,3.47,1.49
+PO0494,S16,Supplier 16,Germany,Aluminium alloy,2025-07-09,409,14,17,2.47,5.21
+PO0026,S15,Supplier 15,Finland,Machined parts,2025-07-10,669,28,34,0.38,0
+PO0363,S09,Supplier 09,Spain,Aluminium alloy,2025-07-10,82,28,27,2.7,7.46
+PO0156,S12,Supplier 12,Germany,Machined parts,2025-07-11,784,28,32,4.28,5.33
+PO0241,S06,Supplier 06,Italy,Aluminium alloy,2025-07-12,1403,14,19,4.26,3.28
+PO0464,S07,Supplier 07,Italy,Stainless steel,2025-07-13,358,42,48,1.83,1.54
+PO0058,S14,Supplier 14,Italy,Bearings,2025-07-15,1887,21,13,2.13,7.1
+PO0115,S09,Supplier 09,Spain,Machined parts,2025-07-16,1042,28,30,3.26,8.25
+PO0485,S14,Supplier 14,Italy,Bearings,2025-07-17,331,21,20,1.32,3.59
+PO0047,S10,Supplier 10,Turkey,Bearings,2025-07-21,1437,42,50,1.81,4.23
+PO0231,S17,Supplier 17,Finland,Cast steel,2025-07-21,1351,35,47,1.44,3.99
+PO0407,S06,Supplier 06,Italy,Stainless steel,2025-07-22,694,14,22,4.47,4.56
+PO0173,S05,Supplier 05,India,Fasteners,2025-07-23,725,28,35,2.37,2.81
+PO0600,S02,Supplier 02,Turkey,Fasteners,2025-07-24,50,42,45,1.76,2.65
+PO0150,S20,Supplier 20,Italy,Aluminium alloy,2025-07-28,1924,42,44,0,4.27
+PO0316,S03,Supplier 03,Germany,Cast steel,2025-07-31,176,42,45,3.14,0.26
+PO0593,S19,Supplier 19,Turkey,Aluminium alloy,2025-08-01,1113,28,32,5.8,5.29
+PO0503,S13,Supplier 13,Poland,Fasteners,2025-08-04,502,21,31,3.9,3.85
+PO0021,S04,Supplier 04,Italy,Fasteners,2025-08-06,217,14,20,2.94,1.56
+PO0515,S13,Supplier 13,Poland,Cast steel,2025-08-08,788,21,22,3.4,4.73
+PO0531,S16,Supplier 16,Germany,Aluminium alloy,2025-08-08,875,14,13,2.68,6.19
+PO0317,S07,Supplier 07,Italy,Fasteners,2025-08-09,954,42,48,0.9,2.09
+PO0419,S10,Supplier 10,Turkey,Machined parts,2025-08-09,1719,42,46,2.78,6.78
+PO0176,S09,Supplier 09,Spain,Stainless steel,2025-08-10,1703,28,25,1.85,6.58
+PO0482,S06,Supplier 06,Italy,Bearings,2025-08-10,1732,14,21,3.75,2.26
+PO0010,S19,Supplier 19,Turkey,Bearings,2025-08-13,547,28,33,4.14,5.0
+PO0096,S03,Supplier 03,Germany,Machined parts,2025-08-13,1455,42,38,2.75,2.77
+PO0565,S06,Supplier 06,Italy,Cast steel,2025-08-13,315,14,20,2.98,2.37
+PO0271,S11,Supplier 11,Italy,Stainless steel,2025-08-14,1070,42,42,2.63,2.74
+PO0284,S19,Supplier 19,Turkey,Stainless steel,2025-08-14,1527,28,31,4.7,7.57
+PO0422,S05,Supplier 05,India,Machined parts,2025-08-14,600,28,24,1.09,2.57
+PO0427,S18,Supplier 18,Germany,Aluminium alloy,2025-08-14,1881,14,25,2.43,5.33
+PO0509,S16,Supplier 16,Germany,Stainless steel,2025-08-14,974,14,12,1.83,7.25
+PO0469,S03,Supplier 03,Germany,Bearings,2025-08-17,203,42,44,2.56,2.18
+PO0233,S04,Supplier 04,Italy,Cast steel,2025-08-18,771,14,20,1.15,0.84
+PO0149,S09,Supplier 09,Spain,Aluminium alloy,2025-08-21,271,28,25,3.56,5.3
+PO0472,S05,Supplier 05,India,Cast steel,2025-08-21,368,28,35,2.32,4.22
+PO0549,S13,Supplier 13,Poland,Machined parts,2025-08-21,1777,21,29,4.26,5.03
+PO0542,S16,Supplier 16,Germany,Fasteners,2025-08-23,766,14,14,1.97,7.07
+PO0137,S12,Supplier 12,Germany,Machined parts,2025-08-24,562,28,29,5.63,3.99
+PO0162,S08,Supplier 08,India,Aluminium alloy,2025-08-25,82,28,38,3.63,4.01
+PO0573,S01,Supplier 01,Turkey,Machined parts,2025-08-26,1382,14,19,0.8,2.02
+PO0126,S17,Supplier 17,Finland,Aluminium alloy,2025-08-27,1831,35,40,2.48,6.24
+PO0493,S12,Supplier 12,Germany,Fasteners,2025-08-28,1204,28,33,3.9,6.8
+PO0262,S06,Supplier 06,Italy,Fasteners,2025-08-29,365,14,19,4.43,5.13
+PO0057,S18,Supplier 18,Germany,Bearings,2025-09-01,1304,14,17,2.51,6.49
+PO0085,S09,Supplier 09,Spain,Cast steel,2025-09-02,1108,28,27,2.17,6.39
+PO0570,S17,Supplier 17,Finland,Fasteners,2025-09-02,741,35,38,0.12,5.61
+PO0168,S13,Supplier 13,Poland,Fasteners,2025-09-03,653,21,23,2.64,4.68
+PO0228,S16,Supplier 16,Germany,Fasteners,2025-09-03,83,14,15,2.11,4.02
+PO0402,S11,Supplier 11,Italy,Bearings,2025-09-03,1301,42,40,2.84,1.76
+PO0418,S09,Supplier 09,Spain,Fasteners,2025-09-03,394,28,29,2.22,7.59
+PO0332,S19,Supplier 19,Turkey,Machined parts,2025-09-04,1726,28,28,3.54,8.05
+PO0002,S01,Supplier 01,Turkey,Aluminium alloy,2025-09-05,1050,14,19,2.64,2.05
+PO0546,S06,Supplier 06,Italy,Cast steel,2025-09-07,508,14,20,3.88,5.82
+PO0495,S08,Supplier 08,India,Cast steel,2025-09-08,729,28,38,4.47,4.36
+PO0107,S11,Supplier 11,Italy,Machined parts,2025-09-10,1762,42,42,3.49,2.41
+PO0246,S02,Supplier 02,Turkey,Stainless steel,2025-09-11,1440,42,47,0.38,4.9
+PO0043,S14,Supplier 14,Italy,Fasteners,2025-09-12,439,21,24,1.23,5.04
+PO0074,S06,Supplier 06,Italy,Fasteners,2025-09-12,1581,14,13,3.63,1.61
+PO0140,S02,Supplier 02,Turkey,Machined parts,2025-09-12,1067,42,46,1.97,2.29
+PO0141,S08,Supplier 08,India,Stainless steel,2025-09-13,1321,28,38,2.97,3.65
+PO0167,S11,Supplier 11,Italy,Fasteners,2025-09-14,1346,42,43,3.48,0
+PO0001,S17,Supplier 17,Finland,Stainless steel,2025-09-15,1154,35,41,1.96,7.47
+PO0226,S18,Supplier 18,Germany,Fasteners,2025-09-15,916,14,28,1.79,6.12
+PO0451,S20,Supplier 20,Italy,Machined parts,2025-09-15,1566,42,54,1.1,5.46
+PO0550,S20,Supplier 20,Italy,Aluminium alloy,2025-09-15,661,42,44,0.33,4.12
+PO0290,S09,Supplier 09,Spain,Bearings,2025-09-16,443,28,27,3.4,5.66
+PO0177,S20,Supplier 20,Italy,Fasteners,2025-09-20,1952,42,46,0,4.37
+PO0399,S01,Supplier 01,Turkey,Bearings,2025-09-20,846,14,22,0.23,2.55
+PO0484,S02,Supplier 02,Turkey,Fasteners,2025-09-20,1313,42,47,1.13,5.54
+PO0200,S03,Supplier 03,Germany,Fasteners,2025-09-21,1088,42,32,1.53,3.59
+PO0243,S12,Supplier 12,Germany,Cast steel,2025-09-21,203,28,32,3.67,4.39
+PO0081,S09,Supplier 09,Spain,Bearings,2025-09-22,1002,28,29,1.85,4.13
+PO0270,S13,Supplier 13,Poland,Bearings,2025-09-22,558,21,28,5.36,3.61
+PO0417,S06,Supplier 06,Italy,Stainless steel,2025-09-22,1699,14,22,4.32,4.69
+PO0182,S06,Supplier 06,Italy,Cast steel,2025-09-24,1430,14,21,4.65,4.29
+PO0357,S07,Supplier 07,Italy,Aluminium alloy,2025-09-26,1678,42,44,0.77,0.56
+PO0114,S12,Supplier 12,Germany,Bearings,2025-09-29,1330,28,31,3.44,5.11
+PO0277,S09,Supplier 09,Spain,Cast steel,2025-09-30,856,28,27,2.42,3.45
+PO0334,S06,Supplier 06,Italy,Machined parts,2025-10-03,924,14,18,3.67,3.52
+PO0428,S04,Supplier 04,Italy,Bearings,2025-10-03,83,14,20,2.99,4.61
+PO0455,S19,Supplier 19,Turkey,Aluminium alloy,2025-10-04,163,28,34,4.24,5.58
+PO0142,S05,Supplier 05,India,Cast steel,2025-10-05,1900,28,33,1.47,3.16
+PO0285,S17,Supplier 17,Finland,Bearings,2025-10-06,352,35,38,0,5.26
+PO0398,S13,Supplier 13,Poland,Stainless steel,2025-10-06,431,21,26,3.14,3.23
+PO0423,S03,Supplier 03,Germany,Bearings,2025-10-10,1105,42,45,1.0,2.54
+PO0449,S19,Supplier 19,Turkey,Machined parts,2025-10-11,185,28,31,2.67,6.66
+PO0564,S11,Supplier 11,Italy,Cast steel,2025-10-11,59,42,50,2.62,1.64
+PO0261,S07,Supplier 07,Italy,Machined parts,2025-10-12,670,42,52,0.84,1.09
+PO0541,S13,Supplier 13,Poland,Stainless steel,2025-10-12,812,21,31,3.12,2.91
+PO0258,S18,Supplier 18,Germany,Fasteners,2025-10-17,422,14,25,1.33,4.86
+PO0436,S05,Supplier 05,India,Machined parts,2025-10-18,342,28,31,2.56,4.05
+PO0257,S11,Supplier 11,Italy,Fasteners,2025-10-19,755,42,45,3.55,2.95
+PO0351,S18,Supplier 18,Germany,Cast steel,2025-10-19,1985,14,24,1.03,5.64
+PO0518,S03,Supplier 03,Germany,Fasteners,2025-10-19,843,42,43,2.98,4.84
+PO0209,S13,Supplier 13,Poland,Machined parts,2025-10-20,1489,21,28,2.27,5.15
+PO0335,S12,Supplier 12,Germany,Aluminium alloy,2025-10-20,1476,28,29,2.44,4.38
+PO0361,S14,Supplier 14,Italy,Cast steel,2025-10-22,1882,21,23,0.26,4.74
+PO0344,S18,Supplier 18,Germany,Aluminium alloy,2025-10-26,681,14,15,1.22,6.92
+PO0500,S16,Supplier 16,Germany,Aluminium alloy,2025-10-26,406,14,13,2.54,3.69
+PO0437,S20,Supplier 20,Italy,Stainless steel,2025-10-27,1336,42,50,1.33,5.35
+PO0359,S03,Supplier 03,Germany,Cast steel,2025-10-31,241,42,49,2.26,1.58
+PO0414,S04,Supplier 04,Italy,Stainless steel,2025-10-31,659,14,19,2.01,2.73
+PO0575,S04,Supplier 04,Italy,Cast steel,2025-10-31,903,14,21,1.65,2.37
+PO0154,S14,Supplier 14,Italy,Cast steel,2025-11-01,1757,21,18,0.45,5.17
+PO0195,S05,Supplier 05,India,Machined parts,2025-11-02,1061,28,34,2.52,1.9
+PO0295,S15,Supplier 15,Finland,Stainless steel,2025-11-02,1745,28,28,3.1,0
+PO0389,S08,Supplier 08,India,Fasteners,2025-11-04,140,28,35,3.09,2.07
+PO0441,S01,Supplier 01,Turkey,Fasteners,2025-11-05,1093,14,21,0.43,2.17
+PO0354,S16,Supplier 16,Germany,Bearings,2025-11-06,82,14,10,3.83,5.24
+PO0328,S02,Supplier 02,Turkey,Bearings,2025-11-07,1309,42,43,1.28,2.06
+PO0333,S05,Supplier 05,India,Aluminium alloy,2025-11-07,174,28,24,1.52,1.9
+PO0103,S19,Supplier 19,Turkey,Cast steel,2025-11-08,1165,28,32,3.33,7.24
+PO0068,S19,Supplier 19,Turkey,Cast steel,2025-11-09,221,28,31,3.56,6.62
+PO0431,S12,Supplier 12,Germany,Bearings,2025-11-11,1331,28,31,3.41,4.33
+PO0037,S14,Supplier 14,Italy,Aluminium alloy,2025-11-16,376,21,27,0.17,5.23
+PO0297,S02,Supplier 02,Turkey,Stainless steel,2025-11-16,157,42,45,0.79,5.41
+PO0308,S13,Supplier 13,Poland,Cast steel,2025-11-16,428,21,28,4.59,4.05
+PO0108,S01,Supplier 01,Turkey,Aluminium alloy,2025-11-19,1230,14,18,2.12,2.22
+PO0404,S03,Supplier 03,Germany,Stainless steel,2025-11-19,691,42,49,2.82,3.23
+PO0147,S08,Supplier 08,India,Fasteners,2025-11-23,799,28,34,1.3,4.67
+PO0365,S13,Supplier 13,Poland,Machined parts,2025-11-24,336,21,29,3.25,4.67
+PO0524,S19,Supplier 19,Turkey,Fasteners,2025-11-24,351,28,31,4.81,8.52
+PO0205,S11,Supplier 11,Italy,Machined parts,2025-11-26,735,42,38,2.33,1.88
+PO0244,S17,Supplier 17,Finland,Stainless steel,2025-11-26,113,35,36,1.91,6.16
+PO0558,S06,Supplier 06,Italy,Aluminium alloy,2025-11-27,1390,14,15,4.54,4.25
+PO0483,S13,Supplier 13,Poland,Stainless steel,2025-11-30,613,21,23,4.02,3.75
+PO0234,S06,Supplier 06,Italy,Bearings,2025-12-02,1474,14,18,3.4,3.75
+PO0438,S20,Supplier 20,Italy,Bearings,2025-12-04,1811,42,39,1.04,7.88
+PO0416,S19,Supplier 19,Turkey,Aluminium alloy,2025-12-06,1813,28,28,3.55,5.48
+PO0543,S09,Supplier 09,Spain,Cast steel,2025-12-06,383,28,28,2.88,7.18
+PO0191,S15,Supplier 15,Finland,Cast steel,2025-12-07,548,28,31,2.02,0.52
+PO0312,S10,Supplier 10,Turkey,Cast steel,2025-12-07,1358,42,43,1.78,3.73
+PO0392,S19,Supplier 19,Turkey,Fasteners,2025-12-08,358,28,34,3.73,7.35
+PO0362,S07,Supplier 07,Italy,Fasteners,2025-12-09,1023,42,50,0.77,4.19
+PO0214,S06,Supplier 06,Italy,Fasteners,2025-12-10,1706,14,19,4.95,2.55
+PO0077,S04,Supplier 04,Italy,Fasteners,2025-12-14,1699,14,21,0.32,5.44
+PO0139,S10,Supplier 10,Turkey,Machined parts,2025-12-17,860,42,44,3.33,4.0
+PO0151,S15,Supplier 15,Finland,Stainless steel,2025-12-18,142,28,26,2.96,2.6
+PO0286,S19,Supplier 19,Turkey,Cast steel,2025-12-18,440,28,28,4.52,7.25
+PO0471,S13,Supplier 13,Poland,Bearings,2025-12-18,606,21,28,3.06,4.51
+PO0528,S01,Supplier 01,Turkey,Fasteners,2025-12-18,1253,14,23,0,1.54
+PO0169,S04,Supplier 04,Italy,Fasteners,2025-12-19,1526,14,22,2.63,3.79
+PO0314,S14,Supplier 14,Italy,Fasteners,2025-12-19,1919,21,16,0.3,5.36
+PO0388,S12,Supplier 12,Germany,Fasteners,2025-12-19,1266,28,30,3.46,4.58
+PO0447,S14,Supplier 14,Italy,Fasteners,2025-12-19,1311,21,17,1.93,5.38
+PO0452,S05,Supplier 05,India,Cast steel,2025-12-19,385,28,28,0.89,3.43
+PO0102,S10,Supplier 10,Turkey,Bearings,2025-12-20,195,42,50,0.51,1.72
+PO0343,S20,Supplier 20,Italy,Fasteners,2025-12-21,708,42,51,2.4,5.56
+PO0400,S09,Supplier 09,Spain,Cast steel,2025-12-21,1232,28,28,4.08,7.36
+PO0512,S16,Supplier 16,Germany,Cast steel,2025-12-22,933,14,12,3.27,4.92
+PO0540,S12,Supplier 12,Germany,Stainless steel,2025-12-22,611,28,31,3.07,5.96
+PO0225,S05,Supplier 05,India,Cast steel,2025-12-23,88,28,23,1.84,3.32
+PO0288,S02,Supplier 02,Turkey,Stainless steel,2025-12-23,1112,42,45,1.3,5.56
+PO0080,S15,Supplier 15,Finland,Stainless steel,2025-12-25,941,28,26,2.62,2.94
+PO0384,S15,Supplier 15,Finland,Stainless steel,2025-12-26,947,28,20,2.63,0
+PO0547,S10,Supplier 10,Turkey,Bearings,2025-12-30,1883,42,53,0.97,3.44
